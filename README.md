@@ -45,7 +45,7 @@ This project demonstrates the implementation of a single-cycle 32-bit RISC-V CPU
 To input and run your own machine code:
 1. Write your RISC-V assembly code in the Venus simulator.
 2. Run the code in Venus to generate the machine code.
-3. Open the Logisim Evolution project file (`CPU.circ`).
+3. Open the Logisim Evolution project file (`RISCV32.circ`).
 4. Double-click on the ROM component to open its properties.
 5. Manually enter the generated machine code into the ROM's content.
 6. Save the project and simulate the CPU in Logisim Evolution.
