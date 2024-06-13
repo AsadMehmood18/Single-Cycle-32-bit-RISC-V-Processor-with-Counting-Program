@@ -52,7 +52,7 @@ To input and run your own machine code:
 7. Your custom program will now run on the CPU, and the output will be displayed on the hexadecimal segment display.
 
 ## Project Structure
-- `RIsCV32.circ` - Logisim project file
+- `RISCV32.circ` - Logisim project file
 - `count1to10` - Machine code for counting program
 - `README.md` - Project documentation
 
